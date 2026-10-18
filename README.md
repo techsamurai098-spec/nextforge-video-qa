@@ -7,3 +7,5 @@ Flower MP4/WebM: Mozilla interactive examples CC0 media, https://interactive-exa
 Embeds: official YouTube iframe API demonstration M7lc1UVf-VE; Big Buck Bunny by Blender Foundation, Vimeo 1084537 (external player content, not copied into this repository).
 
 Serve over HTTP/HTTPS for external player playback.
+
+AINextForge rebrand regression: dedicated QA branch; source branch preserved.
